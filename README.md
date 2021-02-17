@@ -12,7 +12,7 @@ This is a Threat Hunting tool built on Flask. This tool utilizes Pastebin Scrapi
 
 ## Prerequisites
 
-- Python
+- Python 2.7
 - Flask
 - Requests
 - Elasticsearch 5.6
